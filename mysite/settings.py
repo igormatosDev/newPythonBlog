@@ -25,7 +25,7 @@ SECRET_KEY = 'j%5j*&lrk_ow-(v_s9=)(b@m_3j_7lyn#d6s@@%**l_p2y1)9x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','igormatosDev.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'igormatosDev.pythonanywhere.com']
 
 
 # Application definition
